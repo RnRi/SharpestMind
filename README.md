@@ -1,0 +1,2 @@
+# SharpestMind
+SharpestMind folder
