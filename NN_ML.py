@@ -11,7 +11,6 @@ from sklearn.preprocessing import PolynomialFeatures
 Read the data from a CSV file and put it all in an array.
 Assume a title line at the begining of the file.
 @param path - the path to the file to read.
-@return - an array of tuples of the form (array of features, array of target).
 
 """
 def readData(path):
